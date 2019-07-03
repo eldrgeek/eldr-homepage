@@ -1,0 +1,12 @@
+{
+  "name": "crash-picture",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "react-parallax": "latest",
+    "react-dom": "15.5.3",
+    "react": "15.5.3"
+  }
+}
